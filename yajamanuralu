@@ -10,3 +10,17 @@ first file creat chesi e commands use cheyali
 git add - to add file from work space to staging.
 git commit -m "message" - to add file from staging to local repo.
 git push - to local repo to central repo.
+
+How to send a selected file from dirctory?
+                       commands
+		       
+creat a directory      - mkdir directory name
+enter into directory   -cd directory name
+creat some files       - touch f1 f2 f3 f4 f5 f6
+come out of directory  - cd ..
+add only f1 f4 f6      - git add directory name/f1
+                         git add directory name/f4
+			 git add directory name/f6
+check the status       - git status
+commit the files       - git commit -m "message"
+push the files         - git push
