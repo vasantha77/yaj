@@ -3,3 +3,10 @@ You are going to be a DAD....
 
 Really Babe!!!
 It is a happy news let us celebrate :)*
+
+Laddu push cheyali ante aa repository ni clone chesi 
+first file creat chesi e commands use cheyali
+
+git add - to add file from work space to staging.
+git commit -m "message" - to add file from staging to local repo.
+git push - to local repo to central repo.
